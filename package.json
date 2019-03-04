@@ -1,0 +1,53 @@
+{
+	"name": "frontend",
+	"version": "1.0.0",
+	"description": "Front-end elements",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/arturslab/frontend.git"
+	},
+	"author": {
+		"name": "Artur Słaboszewski",
+		"email": "a.slaboszewski@gmail.com",
+		"url": "https://melma.pl"
+	},
+	"license": "ISC",
+	"bugs": "https://github.com/arturslab/frontend/issues",
+	"homepage": "https://github.com/arturslab/frontend#readme",
+	"keywords": [
+		"front-end",
+		"bootstrap",
+		"gulp project"
+	],
+	"devDependencies": {
+		"bootstrap": "^4.3.1",
+		"jquery": "^3.3.1",
+		"popper.js": "^1.14.7",
+		"gulp": "^3.9.1",
+		"gulp-autoprefixer": "^5.0.0",
+		"gulp-clean-css": "^3.10.0",
+		"gulp-concat": "^2.6.1",
+		"gulp-header-comment": "^0.4.0",
+		"gulp-if": "^2.0.2",
+		"gulp-imagemin": "^4.1.0",
+		"gulp-jshint": "^2.1.0",
+		"gulp-livereload": "^3.8.1",
+		"gulp-load-plugins": "^1.5.0",
+		"gulp-notify": "^3.2.0",
+		"gulp-rename": "^1.4.0",
+		"gulp-replace": "^1.0.0",
+		"gulp-sass": "^4.0.2",
+		"gulp-sourcemaps": "^2.6.4",
+		"gulp-terser": "^1.1.6",
+		"gulp-uglify": "^3.0.1",
+		"gulp-util": "^3.0.8",
+		"gulp-wait": "0.0.2",
+		"pump": "^3.0.0",
+		"run-sequence": "^2.2.1",
+		"vinyl-ftp": "^0.6.1"
+	}
+}

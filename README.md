@@ -1,2 +1,2 @@
 # frontend
-Przydatne elementy na front-end
+Some front-end demonstration elements

@@ -1,0 +1,8 @@
+*.log
+.idea/
+
+# Dev
+node_modules
+dist
+gulp-config.js
+instruction.txt
